@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/haiduchii-metaverse/static/css/main.b4c1f52d.css",
-    "main.js": "/haiduchii-metaverse/static/js/main.3b08f158.js",
+    "main.js": "/haiduchii-metaverse/static/js/main.fa37722e.js",
     "static/js/453.486ced01.chunk.js": "/haiduchii-metaverse/static/js/453.486ced01.chunk.js",
     "static/media/map.jpg": "/haiduchii-metaverse/static/media/map.ff515a34f97ea9051b40.jpg",
     "index.html": "/haiduchii-metaverse/index.html",
     "main.b4c1f52d.css.map": "/haiduchii-metaverse/static/css/main.b4c1f52d.css.map",
-    "main.3b08f158.js.map": "/haiduchii-metaverse/static/js/main.3b08f158.js.map",
+    "main.fa37722e.js.map": "/haiduchii-metaverse/static/js/main.fa37722e.js.map",
     "453.486ced01.chunk.js.map": "/haiduchii-metaverse/static/js/453.486ced01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4c1f52d.css",
-    "static/js/main.3b08f158.js"
+    "static/js/main.fa37722e.js"
   ]
 }
